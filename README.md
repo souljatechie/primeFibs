@@ -1,7 +1,7 @@
 primeFibs
 =========
 
-Prime number and Fibinacci sequence calculator
+Prime number and Fibonacci sequence calculator
 
 This script will do 4 things: 2 for prime numbers and 2 for the Fibonacci sequence.  
 
