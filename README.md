@@ -17,10 +17,9 @@ Fibonacci sequence
 The two things this script does for the Fibonacci sequence is return all Fibs numbers up to a given number, or it will
 return the first (n) Fibs.  For example, one could fall all Fibs upt 10000 or the first 10000 Fibs.  
 
-##########################################################################################################################
-################################################  WARNING  ############################################################### 
+=============
+ WARNING  
+=============
 As it stands, this script works out of the box as long as you have Pyhton interpretor installed, but the Fibonacci sequence
 section will produce a MASSIZVE text file if look for the first (n) Fibs.  For example,  The first 100,000 fibs will create
 a .txt file that is about 200MB's!  On a Core i5 with 8GB of RAM that equates to about 10 minutes to open the file.  
-################################################  WARNING  ############################################################### 
-##########################################################################################################################
